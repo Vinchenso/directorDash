@@ -1,4 +1,8 @@
-== README
+## README
+
+_First Attempt to do Md in a project_
+
+**This is a Admin dashboard for my Rental portfolio** 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
