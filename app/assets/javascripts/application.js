@@ -13,8 +13,4 @@
 //= require jquery.min.js
 //= require bootstrap.min.js
 //= require metisMenu.min.js
-//= require raphael-min.js
-//= require morris.min.js
-//= require morris-data.js
 //= require sb-admin-2.js
-//= require_tree .
