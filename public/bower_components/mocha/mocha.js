@@ -2664,7 +2664,7 @@ function HTML(runner, root) {
   });
 
   runner.on('test end', function(test){
-    // TODO: add to stats
+    // TODO:180 add to stats
     var percent = stats.tests / this.total * 100 | 0;
     if (progress) progress.update(percent).draw(ctx);
 
@@ -2702,7 +2702,7 @@ function HTML(runner, root) {
     }
 
     // toggle code
-    // TODO: defer
+    // TODO:200 defer
     if (!test.pending) {
       var h2 = el.getElementsByTagName('h2')[0];
 

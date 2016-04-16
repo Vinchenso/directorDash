@@ -331,7 +331,7 @@
   * Added HTML reporter duration. Closes #47
   * Fixed: one postMessage event listener [exogen]
   * Fixed: allow --globals to be used multiple times. Closes #100 [brendannee]
-  * Fixed #158: removes jquery include from browser tests
+  * Fixed #158:0 removes jquery include from browser tests
   * Fixed grep. Closes #372 [brendannee]
   * Fixed #166 - When grepping don't display the empty suites
   * Removed test/browser/style.css. Closes #385
