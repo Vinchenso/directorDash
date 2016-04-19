@@ -9,15 +9,16 @@
     As an administrator
     I want to complete a form with my portfolio summary data
     So that I can add monthly data
-___
+
+
     As an administrator
     I want to upload a csv with my portfolio data
     So that I can add monthly data easily
-___
+
+
     As an administrator
     I want to view my uploads
     So that I can determine if its correctly uploaded
-
 
 
     As an administrator
