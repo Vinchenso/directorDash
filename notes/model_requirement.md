@@ -16,12 +16,14 @@
 
 
 - Billings  
-  - Category
-  - Type
+  - Category_ID
   - Amount
   - Date
   - Description
 
+- Category
+  - type
+  - Name
 
 - Tenant
   - Contact_ID
