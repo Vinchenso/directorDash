@@ -8,9 +8,9 @@
 
 
 - House
-  - Tenant
+  - Tenant_ID
   - House_Number
-  - Billings
+  - Billings_ID
   - Notes
   - Property_ID
 
@@ -25,9 +25,9 @@
 
 - Tenant
   - Contact_ID
-  - Billings
+  - Billings_ID
   - House_ID
-  - Agent
+  - Agent_ID
 
 
 - Contact
